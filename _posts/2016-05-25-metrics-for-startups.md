@@ -11,6 +11,8 @@ Data matters a lot for every company, but at each stage of a company’s lifecyc
 
 I’ve gone through each stage as a founder of a company that grew, expanded, and was ultimately acquired. At my company, Notion, we spend a remarkable amount of time thinking about what the right metrics are both for ourselves and for our customers. But **when** you track your key metrics matters as much as **what** you track, so I’m going to cover the difference between how early and later stage companies can leverage the *right information at the right time*.
 
+![growth startup metrics]({{ site.url }}/assets/images/growth-startup-metrics.jpg)
+
 ## What to track at an early stage company
 
 This is what you track as you search for your destiny. 
@@ -22,6 +24,8 @@ First, you need to build **awareness**.
 For product development, for each feature, rank an awareness metric and trade off costs (like effort) to arrive at what to build next. I used to call this “Reach” when I was starting up before, but at Notion, we score this as “Growth Opportunity”. How much awareness can you generate with each individual feature? That could mean anything from growth in your existing customer base to product-as-marketing that generates more awareness of your product in your target market.
 
 We use the [ProductPlan](http://productplan.com/) Planning Board to build our roadmap by factoring in Costs (Estimated Sprints, Unknowns, Risk) and Benefits (Customer Signal, Quarter Strategic Value, and Growth Opportunity). 
+
+![growth startup metrics]({{ site.url }}/assets/images/how-to-score-a-roadmap.png)
 
 Beyond the development of new features, you’re running a ton of experiments to figure out who your product is resonating with and how to acquire them into your preliminary funnels. You’ll have targets for New Leads and targets for Lead-to-Trial Conversion percentages, but it’s all in service of having enough potential customers to learn from. At this early stage you’re building a learning machine, and I wish I had thought about it in those terms at my first company -- it would have accelerated our path.
 

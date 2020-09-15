@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 name: "@dshanley"
-title: Thoughts on SaaS growth, product, and startups
+title: Thoughts on SaaS growth, product, and startups | Dave Shanley
 email: dave@daveshanley.co
 description: >- # this means to ignore newlines until "baseurl:"
   Some inside details on starting, growing and scaling teams without sacrificing culture.
@@ -28,6 +28,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 permalink: none
 
 # Exclude from processing.
