@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![alt text](https://media.licdn.com/dms/image/C4E03AQGh-YMuMRvTTQ/profile-displayphoto-shrink_200_200/0?e=1539216000&v=beta&t=BsNEXGpadiltIQuG-2e6FUgVn7GXTLTgPX2uUDO4swc "Dave Shanley")
+![Dave Shanley](https://daveshanley.co/assets/images/headshot-shanley.jpg "Dave Shanley")
 
 Hi there! I'm lucky enough to have worked with some great teams, and I've learned a lot of lessons along the way. My main professional interests are at the intersection of product, engineering, and growth (traditionally, sales and marketing).
 

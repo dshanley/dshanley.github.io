@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 name: "@dshanley"
-title: Thoughts on growth, product, and startups at daveshanley
+title: Thoughts on SaaS growth, product, and startups
 email: dave@daveshanley.co
 description: >- # this means to ignore newlines until "baseurl:"
-  Some inside details on starting, growing and scaling teams through all phases of expansion.
+  Some inside details on starting, growing and scaling teams without sacrificing culture.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://daveshanley.co" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dshanley
@@ -28,6 +28,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+permalink: none
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

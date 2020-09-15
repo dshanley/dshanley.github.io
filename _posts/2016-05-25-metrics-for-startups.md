@@ -2,7 +2,7 @@
 layout: post
 title: 'What to measure as a startup (and beyond)'
 date: '2016-05-29 15:12:11 -0400'
-categories: metrics, startups
+categories: metrics startups
 ---
 
 # Metrics for startups (and beyond)
@@ -15,7 +15,7 @@ I’ve gone through each stage as a founder of a company that grew, expanded, an
 
 This is what you track as you search for your destiny. 
 
-We’re an early stage company right now, and before I scaled up my last company, we were bootstrapping out of my apartment (almost uncomfortably too long). At this point, it doesn’t make a lot of sense to focus on Monthly Recurring Revenue (MRR), Churn, and Customer Acquisition Costs (CAC). You don’t have many customers. And even if you do have customers, you don’t have enough of the right ones -- the kind of customers you are going to build a repeatable business with -- yet. You’re currently searching for the elusive product-market fit and the whole focus should be around validating core business assumptions. You’re preparing your systems for liftoff, and to support the [One Metrics that Matters (OMtM)](http://www.paulgraham.com/growth.html) -- growth -- you need to measure what’s going to get you there first.
+We’re an early stage company right now, and before I scaled up my last company, we were bootstrapping out of my apartment (almost uncomfortably too long). At this point, it doesn’t make a lot of sense to focus on Monthly Recurring Revenue (MRR), Churn, and Customer Acquisition Costs (CAC). You don’t have many customers. And even if you do have customers, you don’t have enough of the right ones -- the kind of customers you are going to build a repeatable business with -- yet. You’re currently searching for the elusive product-market fit and the whole focus should be around validating core business assumptions. You’re preparing your systems for liftoff, and to support the [One Metric that Matters (OMtM)](http://www.paulgraham.com/growth.html) -- growth -- you need to measure what’s going to get you there first.
 
 First, you need to build **awareness**.
 
@@ -26,11 +26,11 @@ We use the [ProductPlan](http://productplan.com/) Planning Board to build our ro
 Beyond the development of new features, you’re running a ton of experiments to figure out who your product is resonating with and how to acquire them into your preliminary funnels. You’ll have targets for New Leads and targets for Lead-to-Trial Conversion percentages, but it’s all in service of having enough potential customers to learn from. At this early stage you’re building a learning machine, and I wish I had thought about it in those terms at my first company -- it would have accelerated our path.
 
 So, metrics for startups are defined as:
-* Feature ranking with Growth Opportunity scores factored in along with other costs and benefits.
-* Number of New Leads -- you need someone to learn from and you need to measure acquisition.
-* Lead-to-Trial Conversion rates -- to understand if your acquisition funnel is working.
-* Custom activation metrics -- to learn if your product is delivering value and to begin to accelerate new leads to that aha! moment. You’re measuring just how active your users are.
-* Net Promoter Score (NPS) -- this is less about referrals at your early stage and more about product market fit. Combined with your activation metrics, you’re looking for signal that a portion of your user base (40% or so), don’t want to live without what you’re offering.
+* **Feature ranking** with **Growth Opportunity** scores factored in along with other costs and benefits.
+* **Number of New Leads** -- you need someone to learn from and you need to measure acquisition.
+* **Lead-to-Trial Conversion rates** -- to understand if your acquisition funnel is working.
+* **Custom activation metrics** -- to learn if your product is delivering value and to begin to accelerate new leads to that aha! moment. You’re measuring just how active your users are.
+* **Net Promoter Score (NPS)** -- this is less about referrals at your early stage and more about product market fit. Combined with your activation metrics, you’re looking for signal that a portion of your user base (40% or so), don’t want to live without what you’re offering.
 
 And you’ll be tracking your cash, of course. Not GAAP revenue or anything complicated, but, simply, how much runway do you have, so you can run your experiments and realize your vision.
 
@@ -82,6 +82,10 @@ As you continue to grow, the metrics of success and the focus areas will continu
 I hope that helps. So much of the art of being successful with your data and metrics strategy is knowing when to say "no" or "not now" and focusing on the metrics that matter *right now* vs the metrics that will matter one day in the future. Best of luck with your growth!
 
 
+
+## Resources
+
+Dave McClure's metrics across the entire buyer/customer lifecycle is helpful when digging in to what you should track. Whatever you align your Objectives and Key Results (OKRs), or more generally, your metrics with -- make sure it aligns with your strategic focus.
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
